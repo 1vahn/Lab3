@@ -1,1 +1,0 @@
-placeholder for lab 1 index.html file
